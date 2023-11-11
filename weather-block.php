@@ -49,7 +49,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 		<span style="margin:auto; font-size:25px;"><?= $obj->location->name; ?></span>
 
-		<span style="margin:auto; font-size:25px;"><?= $obj->current->condition->text; ?> C</span>
+		<span style="margin:auto; font-size:25px;"><?= $obj->current->condition->text; ?></span>
 
 	</div>
 
